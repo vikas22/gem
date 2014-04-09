@@ -6,10 +6,11 @@ require 'validate_name/version'
 Gem::Specification.new do |spec|
   spec.name          = "validate_name"
   spec.version       = ValidateName::VERSION
-  spec.authors       = ["Adwait Gore"]
-  spec.email         = ["adwait@codelearn.org"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Vikas Naidu"]
+  spec.email         = ["vck173@gmail.com"]
+  spec.description   = %q{Validates the given string}
+
+  spec.summary       = %q{Mera Data Test}
   spec.homepage      = ""
   spec.license       = "MIT"
 
